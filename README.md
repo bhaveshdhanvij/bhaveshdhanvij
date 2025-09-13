@@ -31,13 +31,7 @@ Curious coder and tech enthusiast from India. I thrive on puzzles, learning new 
 
 ---
 
-## 📊 GitHub Activity
-
-![Bhavesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaveshdhanvij&show_icons=true&hide_title=true&count_private=true)
-
----
-
 ### 📬 Let’s Connect
 
 Always open to discussions, collaborations, and new ideas.  
-Reach me: **bhaveshdhanvij@gmail.com**
+Reach me: **bhaveshdhanvij5@gmail.com**
