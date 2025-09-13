@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there, I’m Bhavesh! 👋
 
-<!--
-**bhaveshdhanvij/bhaveshdhanvij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious coder and tech enthusiast from India. I thrive on puzzles, learning new technologies, and refining my skills through daily practice.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Enhancing my **competitive programming** skills  
+- Mastering **Data Structures & Algorithms**  
+- Developing interactive websites using **HTML**, **CSS**, and **Python**  
+- Strengthening my programming foundation in **C** and **C++**
+
+---
+
+## 🏅 Competitive Programming Journey
+
+- **CodeChef:** 2 Star
+- **Codeforces:** Pupil
+- **LeetCode:** Highest rating 1750
+
+---
+
+## 🛠️ Languages & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+![Bhavesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaveshdhanvij&show_icons=true&hide_title=true&count_private=true)
+
+---
+
+### 📬 Let’s Connect
+
+Always open to discussions, collaborations, and new ideas.  
+Reach me: **bhaveshdhanvij@gmail.com**
