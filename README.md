@@ -46,6 +46,16 @@ I thrive on puzzles, learning new technologies, and refining my skills through d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
 
+---
+
+## 🐍 Watch my Contributions Snake  
+
+<p align="center">
+  <img src="https://github.com/bhaveshdhanvij/bhaveshdhanvij/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 # 📬 Let’s Connect  
 
 💡 Always open to discussions, collaborations, and new ideas.  
