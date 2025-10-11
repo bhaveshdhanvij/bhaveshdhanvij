@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me  
+# 🚀 About Me  
 
 💡 Curious coder and tech enthusiast from India.  
 I thrive on puzzles, learning new technologies, and refining my skills through daily practice.  
 
 ---
 
-## 🎯 Current Focus  
+# 🎯 Current Focus  
 
 - 📚 Enhancing my **Competitive Programming** skills  
 - 🧠 Mastering **Data Structures & Algorithms**  
@@ -24,7 +24,7 @@ I thrive on puzzles, learning new technologies, and refining my skills through d
 
 ---
 
-## 🏆 Competitive Programming Journey  
+# 🏆 Competitive Programming Journey  
 
 - **LeetCode:** 🔥 Solved **1100+ questions** | 📈 Max Rating **1750**  
 - **CodeChef:** ⭐ 2 Star | 🎯 Max Rating **1470**  
@@ -32,20 +32,20 @@ I thrive on puzzles, learning new technologies, and refining my skills through d
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+# 🛠️ Tech Stack & Tools  
 
-### 🌐 Frontend  
+# 🌐 Frontend  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>  
 
-### 🐍 Programming  
+# 🐍 Programming  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>  
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"/>  
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>  
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
@@ -54,7 +54,7 @@ I thrive on puzzles, learning new technologies, and refining my skills through d
 
 ---
 
-## 🐍 Watch my Contributions Snake  
+# 🐍 Watch my Contributions Snake  
 
 <p align="center">
   <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -62,7 +62,7 @@ I thrive on puzzles, learning new technologies, and refining my skills through d
 
 ---
 
-## 📬 Let’s Connect  
+# 📬 Let’s Connect  
 
 💡 Always open to discussions, collaborations, and new ideas.  
 
