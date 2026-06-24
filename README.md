@@ -1,6 +1,10 @@
 <h1 align="center" style="font-size:40px;">Hi 👋, I'm Bhavesh Dhanvij</h1>
 
 <p align="center">
+  <img src="https://image_gen/generate_image?prompt=A sleek%2C side-profile photograph of a modern Porsche 911 %28992%29 Turbo S%2C captured on a dark%2C wet road in the evening. The image is high-contrast Black and White. The car%2C gleaming with reflections from overhead streetlights%2C is sharp and in motion against a soft%2C blurred background of minimalist concrete architecture and distant city lights. The shallow depth of field leaves plenty of negative space on the left and background.%20The text %22Bhavesh Dhanvij%22 is integrated subtly into the background bokeh behind the car." alt="Porsche 911 Side Profile - Bhavesh Dhanvij"/>
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/bhaveshrocks/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2400+-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/bhaveshdhanvij"><img src="https://img.shields.io/badge/Codeforces-Pupil_1200+-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://www.codechef.com/users/bhaveshdhanvij"><img src="https://img.shields.io/badge/CodeChef-4_Star_1849-5B4636?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
