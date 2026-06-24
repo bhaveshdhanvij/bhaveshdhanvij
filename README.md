@@ -43,6 +43,14 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhaveshdhanvij/bhaveshdhanvij/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
 # 📬 Let’s Connect  
 
 💡 Always open to technical discussions, code walkthroughs, or interesting engineering collaborations.
