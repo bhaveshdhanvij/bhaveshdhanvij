@@ -1,69 +1,87 @@
-<!-- Title -->
-<h1 align="center" style="font-size:40px;">Hi 👋, I'm Bhavesh</h1>
-
-<!-- Coding GIF -->
+<h1 align="center" style="font-size:40px;">Hi 👋, I'm Bhavesh Dhanvij</h1>
 <p align="center">
-  <img src= "https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"alt="coding gif">
+  <g- Blackwell><strong>LeetCode Guardian (Top 0.3%) | B.Tech AI & Data Science Student</strong></g-Blackwell>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/bhaveshrocks/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2400+-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/bhaveshdhanvij"><img src="https://img.shields.io/badge/Codeforces-Pupil_1200+-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/bhaveshdhanvij"><img src="https://img.shields.io/badge/CodeChef-4_Star_1849-5B4636?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
 
 ---
 
 # 🚀 About Me  
 
-💡 Curious coder and tech enthusiast from India.  
-I thrive on puzzles, learning new technologies, and refining my skills through daily practice.  
+💡 I am an **Artificial Intelligence & Data Science** undergraduate student at AISSMS IOIT, Pune. I am deeply passionate about competitive programming, advanced data structures, and architecting scalable full-stack ecosystems. 
+
+* 🏆 **GATE '26 Qualified** (Computer Science & Engineering)
+* 👑 **LeetCode Guardian** (Max Rating **2400+**, Top **0.3%**)
+* 🗺️ **ICPC Contender:** Led the first-ever team from my college to compete in the ICPC.
 
 ---
 
-# 🎯 Current Focus  
+# 🏆 Competitive Programming Highlights  
 
-- 📚 Enhancing my **Competitive Programming** skills  
-- 🧠 Mastering **Data Structures & Algorithms**  
-- 🌐 Developing interactive websites using **HTML**, **CSS**, and **Python**  
-- 💻 Strengthening my programming foundation in **C** and **C++**  
-
----
-
-# 🏆 Competitive Programming Journey  
-
-- **LeetCode:** 🔥 Solved **1100+ questions** | 📈 Max Rating **1750**  
-- **CodeChef:** ⭐ 2 Star | 🎯 Max Rating **1470**  
-- **Codeforces:** 💡 Solved **500+ problems** | 📊 Max Rating **1207 (Pupil)**  
+* **LeetCode:** 🔥 **1000+** Solved | 📈 Max Rating **2400+** (Guardian, Top 0.3%)  
+* **CodeChef:** ⭐⭐⭐⭐ **4 Star** | 🎯 Max Rating **1849** * **Codeforces:** 💡 **500+** Solved | 📊 Max Rating **1200+** (Pupil)  
+* **CP Victories:** Multiple 1st place finishes, including *Bit by Bit Vol. 3 (2026)*, *Code-O-Fiesta '26*, and *AISA Code Relay*.
 
 ---
 
 # 🛠️ Tech Stack & Tools  
 
-# 🧰 Languages and Tools:
+### 💻 Languages & Core CS
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+</p>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+### 🌐 Web & Backend Infrastructure
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+</p>
+
+### 🐳 DevOps, Cloud & AI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" width="45" height="45"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
 ---
 
-## 🐍 Watch my Contributions Snake  
+# ⚙️ Featured Engineering Projects
+
+* **GradeX ⚔️** | *Full-Stack Competitive Coding Ecosystem* * Real-time 1v1 automated coding battles using custom ELO-based matchmaking.
+  * Secure code execution using a custom, containerized **Docker-based engine deployed on AWS EC2**.
+  * Backed by **Supabase & PostgreSQL** for blazing-fast real-time data sync.
+* **Fake Review Detection Engine 🧠** | *NLP / Machine Learning*
+  * Deployed TF-IDF text vectorization alongside optimized Logistic Regression pipelines to intercept fraudulent e-commerce data.
+
+---
+
+## 🐍 Contribution Snake Game 
 
 <p align="center">
-  <img src="https://github.com/bhaveshdhanvij/bhaveshdhanvij/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 
 # 📬 Let’s Connect  
 
-💡 Always open to discussions, collaborations, and new ideas.  
-
-📧 Reach me: **bhaveshdhanvij5@gmail.com**  
+💡 Open for collaborative research, software engineering internships, and system architecture discussions.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhavesh-dhanvij/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="mailto:bhaveshdhanvij5@gmail.com">
